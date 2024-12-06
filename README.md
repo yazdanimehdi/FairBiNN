@@ -3,6 +3,7 @@
 This repository contains the implementation of the paper:  
 **Fair Bilevel Neural Network (FairBiNN): On Balancing Fairness and Accuracy via Stackelberg Equilibrium**  
 Accepted at NeurIPS 2024.
+### [paper on arXiv](https://arxiv.org/abs/2410.16432)
 
 ## Abstract
 
